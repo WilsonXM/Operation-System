@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "syscall.h": "c",
+        "defs.h": "c",
+        "stdio.h": "c",
+        "task_manager.h": "c",
+        "getpid.h": "c"
+    }
+}
